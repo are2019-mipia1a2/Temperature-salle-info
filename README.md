@@ -34,7 +34,7 @@ Pendant ces quatre heures, une partie du groupe s'est focalisée sur les formule
 ### Semaine du 18 mars 2019
 
 Pour cette séance, on s'est focalisé sur trois points de ce projet : la finition du codage de la variation de tempérarture de l'ordinateur (nous avions besoin de finir la partie conduction donnée par les composants de l'ordinateur et la partie sur la ventilation retirant une partie de l'air chaud interne permettant de ne pas faire surchauffer l'ordinateur), la convection dans l'air, démarrant de l'ordinateur pour que la température se propage dans la salle, et commencer la modélisation par des matrices. 
-Suite au choix de modéliser notre sujet avec des matrices, des décicsions ont dû être prises quant au postulat lié à celui-ci : que représente une case de la matrice, combien d'ordinateurs peut se trouver sur un espace d'air, ect. 
+Suite au choix de modéliser notre sujet avec des matrices, des décicsions ont dû être prises quant au postulat lié à celui-ci : que représente une case de la matrice, combien d'ordinateurs peuvent se trouver sur un espace d'air, ect. 
 On a terminé ces quatre heures par tester notre modèle avec des exemples pour voir si notre codage fonctionnait.
 
 Il nous faut donc désormais finir notre programme principale en ajoutant les convections de températures dans la salle en travaillant par unité d'air puis faire notre modélisation iconographique.
