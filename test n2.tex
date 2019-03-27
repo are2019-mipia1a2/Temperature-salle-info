@@ -1,0 +1,44 @@
+\documentclass{article}
+\begin{document}
+\begin{flushleft}
+\begin{Large}
+Calcul de l'homogénéisation de la température du PC :
+$T(t) = T_{composant} + (T_{salle} - T_{composant})e^{\frac{-hS}{mCp}t}$
+\\
+\par\leavevmode\par
+o\`u S est la surface de contact, m est la masse et Cp est la chaleur massique \`a pression constante, h le coefficient d'\'echange:
+\\
+\par\leavevmode\par
+$h =  \frac{|T_{f} - T_{salle}|  * Cp_{air} * M_{air}}{|T_{pc}-T_{composant}|*S_{composant}} $,
+
+\par\leavevmode\par
+\par\leavevmode\par
+Calcul de la température en tout temps pour la représentation matricielle de la salle :
+\par\leavevmode\par
+Par convection :
+\\
+
+$Tf = \frac{e^{\frac{\Delta t}{Cm}}}{Cm}+Ti$
+
+Avec C la capacit\'e calorifique en $J.K^{-1}.kg^{-1}$
+\par\leavevmode\par
+Par conduction :
+\\
+$Tf = \frac{\Delta x}{kA}(e^{\frac{t}{A}}+1)+Ti$
+
+Avec A la surface d'échange en $m^{2}$, $\Delta x$ constant pour tous carr\'es de la matrice et k coefficient de transfert de chaleur en $W.m^{-2}.K^{-1}$
+
+
+
+
+
+
+
+
+
+
+
+
+\end{Large}
+\end{flushleft}
+\end{document}
