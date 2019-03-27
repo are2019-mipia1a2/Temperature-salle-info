@@ -39,6 +39,5 @@ Il nous faut donc désormais finir notre programme principale en ajoutant les co
 
 ### Semaine du 25 mars 2019
 
-Après de nombreuses recherches en ligne, nous avons enfin trouvé une relation qui nous permettrerait d'obtenir la température finale d'une "case" de la matrice grâce à différents facteurs connus ou bien constants . Cela signifie que nous pouvons désormais commencer à coder la modélisation des flux thermiques dans la salle. D'autre part, les dimensions de notre salle d'étude ont été fixées et Gabin a continué à programmer avec l'aide des trois autres membres du groupe. 
-
+Après de nombreuses recherches en ligne, nous avons enfin trouvé une relation qui nous permettrerait d'obtenir la température finale d'une "case" de la matrice grâce à différents facteurs connus ou bien constants . Cela signifie que nous pouvons désormais commencer à coder la modélisation des flux thermiques dans la salle. D'autre part, les dimensions de notre salle d'étude ont été fixées et Gabin a continué à programmer avec l'aide des trois autres membres du groupe. Nous nous posons encore des questions sur la modélisation de notre salle informatique, par rapport à la propagation du flux de chaleur à travers la salle. D'un autre côté, nous avons achevé la modélisation de l'ordinateur, en particulier la partie concernant le ventilateur en contact avec l'extérieur du PC. Nous avons aussi commencé à programmer la case de la matrice liée à l'ordinateur, grâce aux formules trouvées précédemment
 
