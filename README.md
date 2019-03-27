@@ -9,9 +9,7 @@ Il faut pouvoir calculer l'homogénéisation de l'air à l'intérieur de l'ordin
 température constante différente, qui modifie la température interne de l'ordinateur par conduction et certains composants précis
 par ventilation.
 
-Dans le premier modèle, la salle est considérée comme fermée et composée de matériaux totalement isolants vers l'extérieur,
-elle a un volume d'air connu et fixe et une température initiale donnée.
-On considère qu'il n'y a pas encore de ventilation vers l'extérieur et l'ordinateur a une température constante.
+Pour la salle, on devra considérer la conduction procurée par l'ordinateur et la convection créée par la ventilation vers l'extèrieur de celui-ci pour un volume d'air qu'on choisira pour notre modèle, contenant cette ordinateur. Pour la reste de la salle, on effectuera des calculs pour des transferts de températurs par convection. Enfin, on introduira la ventilation grâce au phénomène de convection forcée.
 
 ### Semaine du 18 février 2019
 
@@ -38,3 +36,9 @@ Suite au choix de modéliser notre sujet avec des matrices, des décicsions ont 
 On a terminé ces quatre heures par tester notre modèle avec des exemples pour voir si notre codage fonctionnait.
 
 Il nous faut donc désormais finir notre programme principale en ajoutant les convections de températures dans la salle en travaillant par unité d'air puis faire notre modélisation iconographique.
+
+### Semaine du 25 mars 2019
+
+
+
+
