@@ -29,7 +29,7 @@ def Matrice(MS):
         if i>=50 and i<60:
             MS[i]=MS[i]
             liste5.append(MS[i])
-    print("JE SUIS UNIQUE")
+    print("")
     print(MS)
     Matrice=[]
     Matrice.append(liste1)
@@ -37,7 +37,7 @@ def Matrice(MS):
     Matrice.append(liste3)
     Matrice.append(liste4)
     Matrice.append(liste5)
-    print("JE SUIS ENCORE PLUS UNIQUE")
+    print("")
     print(Matrice)
     return(Matrice)
     
