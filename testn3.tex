@@ -1,0 +1,65 @@
+\documentclass{article}
+\begin{document}
+\begin{flushleft}
+\begin{Large}
+Calcul de la temp\'erature du composant :
+\par\leavevmode\par
+$T_{comp}(t)= (-P.R_{th})e^{-(\frac{P}{C}+\frac{Tair}{R_{th}.C}).t}+P.R_{th}+T_{air}$ (1)
+\par\leavevmode\par
+
+Calcul de l'homog\'en\'eisation de la temp\'erature du PC :
+\par\leavevmode\par
+
+$T(t) = T_{composant} + (T_{salle} - T_{composant})e^{\frac{-hS}{mCp}t}$ (2)
+\\
+\par\leavevmode\par
+o\`u S est la surface de contact, m est la masse et Cp est la chaleur massique \`a pression constante, h le coefficient d'\'echange:
+\\
+\par\leavevmode\par
+$h =  \frac{|T_{f} - T_{salle}|  . Cp_{air} . M_{air}}{|T_{pc}-T_{composant}|.S_{composant}} $ (3)
+
+\par\leavevmode\par
+\par\leavevmode\par
+Calcul de la temp\'erature en tout temps pour la repr\'esentation matricielle de la salle :
+\par\leavevmode\par
+Par convection :
+\par\leavevmode\par
+
+$Tf = \frac{1}{Cm}e^{\frac{-\Delta t}{Cm}}+Ti$ (4)
+\par\leavevmode\par
+
+Avec C la chaleur massique en $J.K^{-1}.kg^{-1}$ (5)
+\par\leavevmode\par
+Par conduction :
+\par\leavevmode\par
+$Tf = \frac{\Delta x}{kA}(e^{\frac{t}{A}}+1)+Ti$ (6)
+\par\leavevmode\par
+
+Avec A la surface d'\'echange en $m^{2}$, $\Delta x$ constant pour toutes les cases de la matrice et k coefficient de transfert de chaleur en $W.m^{-2}.K^{-1}$.
+
+
+
+\par\leavevmode\par
+\par\leavevmode\par
+\par\leavevmode\par
+
+Calcul de l'homog\'en\'eisation de cases adjacentes de la matrice :
+\par\leavevmode\par
+
+$Tf = \frac{m_{A}C_{A}T_{AI}+m_{B}C_{B}T_{BI}+...+m_{N}C_{N}T_{NI}}{m_{A}C_{A}+m_{B}C_{B}+...+m_{N}C_{N}}$ (7)
+\par\leavevmode\par
+
+
+Avec $C_{A}=C_{B}=...=C_{N}=C=1,005  kJ.kg^{-1}.K^{-1}$
+\par\leavevmode\par
+
+$Tf = \frac{m_{A}CT_{AI}+m_{B}CT_{BI}+...+m_{N}CT_{NI}}{m_{A}C+m_{B}C+...+m_{N}C}$ (8)
+
+
+
+
+
+
+\end{Large}
+\end{flushleft}
+\end{document}
