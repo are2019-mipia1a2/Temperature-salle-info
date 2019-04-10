@@ -1,4 +1,7 @@
-Calcul de la temp\'erature du composant :
-\par\leavevmode\par
-$T_{comp}(t)= (-P.R_{th})e^{-(\frac{P}{C}+\frac{Tair}{R_{th}).C}.t}+P.R_{th}+T_{air}$
-\par\leavevmode\par
+https://matplotlib.org/gallery/images_contours_and_fields/interpolation_methods.html#sphx-glr-gallery-images-contours-and-fields-interpolation-methods-py
+https://matplotlib.org/gallery/index.html
+https://matplotlib.org/gallery/images_contours_and_fields/image_annotated_heatmap.html#sphx-glr-gallery-images-contours-and-fields-image-annotated-heatmap-py
+https://www.quora.com/What-temperature-do-you-need-to-use-in-the-forced-convective-heat-transfer-equation-for-the-fluid-temperature-static-or-total-Why
+https://www.google.com/search?q=masse+volumique+de+l%27air+a+25%C2%B0c&hl=fr&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj0xtWC9KHhAhXp2OAKHb8XAYwQ_AUIDigB&biw=1920&bih=1062#imgrc=Pici052oZJXkyM:
+https://matplotlib.org/tutorials/colors/colormaps.html?highlight=choosing%20colormaps
+https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_w_boi_sa_puis_ref_est_in10050047.html#fiche-technique
