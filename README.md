@@ -31,7 +31,7 @@ Pendant ces quatre heures, une partie du groupe s'est focalisée sur les formule
 
 ### Semaine du 18 mars 2019
 
-Pour cette séance, on s'est focalisé sur trois points de ce projet : la finition du codage de la variation de tempérarture de l'ordinateur (nous avions besoin de finir la partie conduction donnée par les composants de l'ordinateur et la partie sur la ventilation retirant une partie de l'air chaud interne permettant de ne pas faire surchauffer l'ordinateur), la convection dans l'air, démarrant de l'ordinateur pour que la température se propage dans la salle, et commencer la modélisation par des matrices. 
+Cette semaine, on s'est focalisé sur trois points de ce projet : la finition du codage de la variation de tempérarture de l'ordinateur (nous avions besoin de finir la partie conduction donnée par les composants de l'ordinateur et la partie sur la ventilation retirant une partie de l'air chaud interne permettant de ne pas faire surchauffer l'ordinateur), la convection dans l'air, démarrant de l'ordinateur pour que la température se propage dans la salle, et commencer la modélisation par des matrices. 
 Suite au choix de modéliser notre sujet avec des matrices, des décicsions ont dû être prises quant au postulat lié à celui-ci : que représente une case de la matrice, combien d'ordinateurs peuvent se trouver sur un espace d'air, ect. 
 On a terminé ces quatre heures par tester notre modèle avec des exemples pour voir si notre codage fonctionnait.
 
@@ -47,6 +47,6 @@ Pendant cette séance, nous avons continué les travaux déjà entamés, c'est �
 
 ### Semaine du 8 avril 2019
 
-
+Les heures de cette semaine ont été consacrées à la ventilation dans la salle, les matrices qui nous permettront d'avoir un support visuel pour la modélisation mais aussi au commencement du rapport final. Chaque membre a eu une mission et on s'est entraidé si l'un avez un problème : Gabin s'est concentré sur la programmation du climatisuer, Emilien a, quant à lui, continué son travail sur les matrices et à commencer la création de GIF, Romane et Shanita ont, elles, entamé le rapport final. On a également réparti l'écrit pour chacun d'entre nous.
 
 
