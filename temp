@@ -1,0 +1,4 @@
+Calcul de la temp\'erature du composant :
+\par\leavevmode\par
+$T_{comp}(t)= (-P.R_{th})e^{-(\frac{P}{C}+\frac{Tair}{R_{th}).C}.t}+P.R_{th}+T_{air}$
+\par\leavevmode\par
