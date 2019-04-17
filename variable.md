@@ -1,0 +1,12 @@
+- Puissance apportée aux composants
+- Masses des d'air dans une case/composants/dissipateurs/air brassé par les ventilateurs
+- dimmensions de la salle/cases/unité centrale/composants/dissipateurs
+- capcité calorifique composants/dissipateurs
+- surfaces de contactes (composants,air)/(composants,dissipateurs),/(dissipateurs,air)
+- Température initiale
+- Chaleur massique air/dissipateurs
+- Résistance thermique air/dissipateurs
+- temps
+- débit d'air expulsé par l'ordinateur/climatisation
+- positions ordinateurs/climatisations
+- matériaux utilisés
